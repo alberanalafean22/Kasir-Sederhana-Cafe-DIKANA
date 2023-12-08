@@ -9,7 +9,7 @@ class Cafe:
 # Membuat objek Cafe dengan nama dan daftar menu
 #cafe = Cafe("Dikana", {"Espresso":15000, "Americano":15000, "Avocado Coffee":18000})
 
-cafe = Cafe("Dikana", {"Espresso":15000,"Americano":10000,"Kawa daun":15000,"Teh Talua Pinang":18000
+cafe = Cafe("Dikana", {"Espresso":15000,"Americano":10000,"Kawa daun":15000,"Teh Talua Pinang":18000,
                        "Avocado Coffe":18000,"Milk Kawa daun":17000,
                        
 })
